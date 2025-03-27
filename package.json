@@ -1,0 +1,20 @@
+{
+  "name": "razorpay",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "feather": "^0.0.6",
+    "vite": "^6.1.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.2",
+    "tailwindcss": "^3.4.17"
+  }
+}
